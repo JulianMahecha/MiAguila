@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/JulianMahecha/MiAguila/issues"
   },
-  "homepage": "https://github.com/JulianMahecha/MiAguila#readme"
+  "homepage": "https://github.com/JulianMahecha/MiAguila#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "promise-mysql": "^4.1.3"
+  }
 }
